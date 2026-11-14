@@ -1,0 +1,10 @@
+# Accidental global npm installation folders
+**/%USERPROFILE%/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.examplegit status --short
