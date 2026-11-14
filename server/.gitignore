@@ -4,3 +4,7 @@ node_modules
 .agents
 .claude
 .windsurf
+.neon
+
+# Accidental npm global installation folders
+**/%USERPROFILE%/
